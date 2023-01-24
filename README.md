@@ -1,6 +1,6 @@
 # elevator
 
-<https://andrey999k.github.io/elevator-test-task/>
+<https://andrey999k.github.io/elevator-test-task-v2/>
 
 ## Project setup
 ```
