@@ -5,7 +5,7 @@
 
 **Демо:** <https://andrey999k.github.io/elevator-test-task-v2/>
 
-Pet-проект с использованием js-фреймворка Vue.
+Pet-проект с использованием js-фреймворка **Vue**.
 
 ***
 
