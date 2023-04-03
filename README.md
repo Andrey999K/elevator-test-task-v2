@@ -1,6 +1,7 @@
 # elevator
+Эмулятор работы лифтов.
 
-<https://andrey999k.github.io/elevator-test-task-v2/>
+Демо: <https://andrey999k.github.io/elevator-test-task-v2/>
 
 ## Project setup
 ```
